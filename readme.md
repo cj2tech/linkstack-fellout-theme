@@ -1,13 +1,13 @@
 # A LinkStack Theme
 Find more themes: https://github.com/JulianPrieber/llc-themes
                                                                                                                                                                          
-*	Theme Name: ThemeName
+*	Theme Name: Fellout
 *	Theme Version: 1.0
-*	Theme Date: YYYY-MM-DD
-*	Theme Author: YourGitHubName
-*	Theme Author URI: https://github.com/YourGitHubName
+*	Theme Date: 2026-15-9
+*	Theme Author: cj2tech
+*	Theme Author URI: https://github.com/cj2tech
 *	Theme License: GPLv3
-*	Source code: https://github.com/YourGitHubName/ThemeName
+*	Source code: [https://github.com/YourGitHubName/ThemeName](https://github.com/cj2tech/linkstack-fellout-theme)
 
 
 ### Used assets:
